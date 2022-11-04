@@ -1,4 +1,4 @@
-# Week  6Backend Stack 2: Python Task
+# Week  6 Backend Stack 2: Python Task
 
 ## 📝 This is a task for I4GxZuri
 
@@ -25,12 +25,14 @@
 
 ### 🛠 Tools
 
-- Django version 4.1.2
-- Python version 3.10.4
-- Visual Studio Code version 1.72.2
-- Git 2.36.1
-- Github repository
-
+ |Tool| Version|
+ |----|--------|
+ |Django|4.1.2|
+ |Python|3.10.4|
+ |Visual Studio Code| 1.72.2|
+ |Git|2.36.1|
+ |Github repository| |
+ 
 ### 🔗 Important links
 
 - Django: https://www.djangoproject.com/
