@@ -18,7 +18,7 @@
 
 1. [DJANGO - DRF API Views and Permissions](https://www.youtube.com/watch?v=dt42L4N_DdY)
 2. [Django REST Framework Complete Course For Beginners - Zero to Hero Tutorial](https://www.youtube.com/watch?app=desktop&v=z6WudaByH1k)
-3. [Views and templates. Views that accepts arguments](https://www.youtube.com/watch?v=VrAmwpj7MX4)
+3. [Views and templates. Views that accept arguments](https://www.youtube.com/watch?v=VrAmwpj7MX4)
 4. [Form submission using templates and views](https://www.youtube.com/watch?v=n9Ey_lWN5VI)
 5. [Django rest framework](https://www.youtube.com/watch?v=1AT0mbvK8Ao)
 6. [Python Office Hours with Femi](https://www.youtube.com/watch?v=C8wg7HzbVR8)
